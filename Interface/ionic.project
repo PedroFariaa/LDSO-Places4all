@@ -1,0 +1,12 @@
+{
+  "name": "LDSO",
+  "app_id": "9f5a3a8e",
+  "gulpStartupTasks": [
+    "sass",
+    "watch"
+  ],
+  "watchPatterns": [
+    "www/**/*",
+    "!www/lib/**/*"
+  ]
+}
